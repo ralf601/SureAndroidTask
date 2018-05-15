@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SureAndroidTask</string>
+    <string name="language">Language</string>
+    <string name="events">Events List</string>
+    <string name="medi_supplier">Medi Supplier</string>
+    <string name="welcome">Welcome</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="city">City</string>
+    <string name="select">Select</string>
+    <string name="apply_filter">Apply Filter</string>
+    <string name="filter">Filter</string>
+    <string name="error_fetch_events">Error:Unable to load events</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="event_location">Event Location</string>
+    <string name="clear_filters">Clear Filters</string>
+    <string name="sort_by_nearest">Sort by nearest</string>
+
+    <string name="saudi_events">Saudi Events</string>
+    <string name="english">English</string>
+    <string name="arabic">عربى</string>
+
+</resources>

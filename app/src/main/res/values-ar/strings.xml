@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SureAndroidTask</string>
+    <string name="language">لغة</string>
+    <string name="events">قائمة الأحداث</string>
+    <string name="medi_supplier">مورد ميدي</string>
+    <string name="welcome">أهلا بك</string>
+    <string name="start_date">تاريخ البدء</string>
+    <string name="end_date">تاريخ الانتهاء</string>
+    <string name="city">مدينة</string>
+    <string name="select">تحديد</string>
+    <string name="apply_filter">تطبيق مرشح</string>
+    <string name="filter">منقي</string>
+    <string name="error_fetch_events">خطأ: غير قادر على تحميل الأحداث</string>
+    <string name="title_activity_maps">خريطة</string>
+    <string name="event_location">موقع الحدث</string>
+    <string name="clear_filters">مسح مرشحات</string>
+    <string name="sort_by_nearest">فرز حسب الأقرب</string>
+
+    <string name="saudi_events">الاحداث السعودية</string>
+    <string name="english">English</string>
+    <string name="arabic">عربى</string>
+
+</resources>
